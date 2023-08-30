@@ -214,14 +214,7 @@ The stack for my role includes:
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#3](https://github.com/Aron-HD/joshhd-portfolio/issues/3) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
-2. 🎉 Merged PR [#15](https://github.com/Aron-HD/joshhd-portfolio/pull/15) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
-3. 💪 Opened PR [#15](https://github.com/Aron-HD/joshhd-portfolio/pull/15) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
-4. 🎉 Merged PR [#2](https://github.com/Aron-HD/cms-bot-gui/pull/2) in [Aron-HD/cms-bot-gui](https://github.com/Aron-HD/cms-bot-gui)
-5. 🗣 Commented on [#4](https://github.com/Aron-HD/rest-api/issues/4) in [Aron-HD/rest-api](https://github.com/Aron-HD/rest-api)
-<!--END_SECTION:activity-->
 
 
 
