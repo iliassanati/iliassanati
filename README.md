@@ -223,7 +223,7 @@ The stack for my role includes:
 5. 🗣 Commented on [#4](https://github.com/Aron-HD/rest-api/issues/4) in [Aron-HD/rest-api](https://github.com/Aron-HD/rest-api)
 <!--END_SECTION:activity-->
 
--->
+
 
 
 <!--
