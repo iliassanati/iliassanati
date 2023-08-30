@@ -1,15 +1,12 @@
 <!--
-    <a href="https://aronhd.com">
+    <a href="">
         <img height="100" width="100" src="my-logo.svg" alt="aronhd.com" />
     </a>
 
 -->
-    
-
-<p align="center">
+<h2 align="center">
   ### Hi there I'm Ilias👋
-
-</p>
+</h2>
 
 <h3 align="center">
 Languages
