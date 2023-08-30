@@ -12,24 +12,24 @@
 Languages
 </h3>
 <p align="center">
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img alt="PowerShell" src="https://img.shields.io/badge/powershell-012456?style=for-the-badge&logo=powershell&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img alt="Python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <h3 align="center">
 Frameworks
 </h3>
 <p align="center">
-    <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img alt="Next.js" src="https://img.shields.io/badge/next.js-fff?style=for-the-badge&logo=next.js&logoColor=black" />
-    <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" /> 
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+    <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+    <img alt="Mui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" /> 
 <!--     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
     <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /> -->
 </p>
@@ -38,21 +38,22 @@ Frameworks
 Databases & Query languages
 </h3>
 <p align="center">
-    <img alt="Azure SQL" src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
-    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img alt="PostGreSQL" src="https://img.shields.io/badge/PostGreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt="Dynamo DB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 <p align="center">
-    <a href="https://aronhd.com">
+    <a href="https://eliesan.com">
         <img align="center" alt="aronhd.com" style="svg {fill: white}" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
     </a>
-    <a href="https://linkedin.com/aron-hd">
-        <img align="center" alt="Aron-HD | LinkedIn" style="svg {fill: white}" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
+    <a href="https://www.linkedin.com/in/ilias-sanati-0b4bb4131/">
+        <img align="center" alt="Ilias SANATI | LinkedIn" style="svg {fill: white}" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
     </a>
-    <a href="https://aron-hd.slack.com">
+    <a href="https://iliassanati.slack.com">
         <img align="center" alt="Aron-HD | Slack" style="svg {fill: white}" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/slack.svg" />
     </a>
 </p>
@@ -63,15 +64,15 @@ I am passionate about learning new technologies and using them to build apps, co
 
 The stack for my role includes:
 
-- .NET 6 / 7
-- PowerShell 7
-- Azure Portal
-- Azure DevOps
+- React / React Native / Next JS
+- Node JS
+- AWS EC2
+- GithubActions
 
-[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
-[![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
+[![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://vscode.com/)
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
-[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
+[![AWS]("https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white")
 
 </br>
 
@@ -80,12 +81,12 @@ The stack for my role includes:
         <tr>
             <th>
                 <a href="https://github.com/anuraghazra/github-readme-stats">
-                    <img align="center" alt="Aron's github stats" src="https://github-readme-stats.vercel.app/api?username=Aron-HD&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
+                    <img align="center" alt="Aron's github stats" src="https://github-readme-stats.vercel.app/api?username=iliassanati&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
                 </a>
             </th>
             <th>
                 <a href="https://github.com/anuraghazra/github-readme-stats">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aron-HD&amp;layout=compact&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliassanati&amp;layout=compact&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
                 </a>
             </th>
         </tr>
@@ -94,14 +95,14 @@ The stack for my role includes:
 
 <!-- ![Aron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aron-HD&show_icons=true&theme=dark&count_private=true&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aron-HD&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Aron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aronhd&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Aron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iliassanati&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### Recent activity
 
 </br>
-
+<!--
 <!--START_SECTION:activity-->
 
 1. ❗️ Closed issue [#3](https://github.com/Aron-HD/joshhd-portfolio/issues/3) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
@@ -111,6 +112,7 @@ The stack for my role includes:
 5. 🗣 Commented on [#4](https://github.com/Aron-HD/rest-api/issues/4) in [Aron-HD/rest-api](https://github.com/Aron-HD/rest-api)
 <!--END_SECTION:activity-->
 
+-->
 <!--
 ### Technologies
 
