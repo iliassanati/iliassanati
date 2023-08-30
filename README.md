@@ -69,10 +69,10 @@ The stack for my role includes:
 - AWS EC2
 - GithubActions
 
-[![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://vscode.com/)
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/--0078d7?logo=visual-studio-code&logoColor=white)](https://vscode.com/)
+[![Github](https://img.shields.io/badge/--121011?logo=github&logoColor=white)](https://github.com/)
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
-[![AWS]("https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white")
+[![AWS](https://img.shields.io/badge/--FF9900?logo=amazon-aws&logoColor=white)](http://git-scm.com/)
 
 </br>
 
