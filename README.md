@@ -5,7 +5,7 @@
 
 -->
 <h2 align="center">
-  ### Hi there I'm Ilias👋
+  Hi there I'm Ilias👋
 </h2>
 
 <h3 align="center">
@@ -81,7 +81,7 @@ The stack for my role includes:
         <tr>
             <th>
                 <a href="https://github.com/anuraghazra/github-readme-stats">
-                    <img align="center" alt="Aron's github stats" src="https://github-readme-stats.vercel.app/api?username=iliassanati&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
+                    <img align="center" alt="Ilias's github stats" src="https://github-readme-stats.vercel.app/api?username=iliassanati&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
                 </a>
             </th>
             <th>
@@ -93,9 +93,9 @@ The stack for my role includes:
     </thead>
 </table>
 
-<!-- ![Aron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aron-HD&show_icons=true&theme=dark&count_private=true&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aron-HD&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Aron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iliassanati&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Ilias's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliassanati&show_icons=true&theme=dark&count_private=true&hide=contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliassanati&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![ILias's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iliassanati&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
